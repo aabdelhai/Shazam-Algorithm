@@ -1,4 +1,4 @@
-package audiofingerprinter;
+
 
 
 public class SongRecognizer implements Comparable<SongRecognizer> {

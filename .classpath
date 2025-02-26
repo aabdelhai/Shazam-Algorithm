@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="build/classes/java/test" path="test">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/resources/test" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+			<attribute name="resource" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="test/resources/" kind="src" output="build/classes/java/main" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/resources/main" path="res">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+			<attribute name="resource" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/classes/java/test" path="build/generated/sources/annotationProcessor/java/test">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/classes/java/main" path="build/generated/sources/annotationProcessor/java/main">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/JavaSE-21">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/21.0.4/5e945216dd87afc5a57e58fa0c23ee5a3d0ba711/javafx-fxml-21.0.4-mac-aarch64.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/21.0.4/72019e5ca6a68ed1f2c34bdc1c41cebdcd7ecc79/javafx-fxml-21.0.4-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/21.0.4/597292667f064d1e5285afc22873fec6c79f3feb/javafx-base-21.0.4-mac-aarch64.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/21.0.4/18fd6a56249c960a3b7afc5b89f84dc6d95b3e44/javafx-base-21.0.4-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/com.googlecode.soundlibs/tritonus-share/0.3.7.4/bdddc55194f9cf7b970dd5f3affcbacb88342b0b/tritonus-share-0.3.7.4.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/com.googlecode.soundlibs/tritonus-share/0.3.7.4/f05ddcdbb81f05faec9f90014b67a9e9ded062e8/tritonus-share-0.3.7.4-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/com.googlecode.soundlibs/mp3spi/1.9.5.4/3bdf9ffd65c157daec8735e127c3705513bd384d/mp3spi-1.9.5.4.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/com.googlecode.soundlibs/mp3spi/1.9.5.4/62b042ffd0f66a598486440b0328874d436c5a3f/mp3spi-1.9.5.4-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.5/13af68e9a11576953f5c4b09436f8207be9d3a27/commons-math3-3.5.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.5/1d3f412d28c8bff0e8f048240b08bcd21cfa432e/commons-math3-3.5-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/com.googlecode.soundlibs/jlayer/1.0.1.4/b8df07ad72b482f7d6e6dee7fed669385e8dd92f/jlayer-1.0.1.4.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/com.googlecode.soundlibs/jlayer/1.0.1.4/48ca80380f95416451fb56540a4492b15f4f4697/jlayer-1.0.1.4-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/21.0.4/4a190b99b244636b7b35ef9ca4de1ed05c8ee060/javafx-graphics-21.0.4-mac-aarch64.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/21.0.4/67f959474ae53c88a2b482ebc67f8bdb0f7d825d/javafx-graphics-21.0.4-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/com.googlecode.soundlibs/tritonus-all/0.3.7.2/519f17d66660a7ef917e9aa4c4f91f42a4a01edc/tritonus-all-0.3.7.2.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/com.googlecode.soundlibs/tritonus-all/0.3.7.2/c52b9169d00c6075c6aa65ddd3124e2d038e9314/tritonus-all-0.3.7.2-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/com.github.wendykierp/JTransforms/3.1/f1f6d3c9c9bc04f848e38bdb77dea01e8764a01f/JTransforms-3.1.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/com.github.wendykierp/JTransforms/3.1/fc9cbab6459c03db12a643bc5dc1b1475a3f0b52/JTransforms-3.1-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/com.googlecode.soundlibs/jorbis/0.0.17-2/83b4e0c4bb3705f2bbefb2cf70abcaeebdde4553/jorbis-0.0.17-2.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/com.googlecode.soundlibs/jorbis/0.0.17-2/86087312c5e4040332d38a00ffd222cc7828db10/jorbis-0.0.17-2-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/junit/junit/3.8.2/7e4cde26b53a9a0e3fe5b00d1dbbc7cc1d46060/junit-3.8.2.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/junit/junit/3.8.2/aaa058540bf14ad600dd784de979c46c721ccbbe/junit-3.8.2-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/com.github.mac-comp127/kilt-graphics/1.8/42bbaa0d4141e1c1123fb2d0615bb0de59ff56d4/kilt-graphics-1.8.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/com.github.mac-comp127/kilt-graphics/1.8/fc323ac3cd887d205134ee632a0a7b847fa05232/kilt-graphics-1.8-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/21.0.4/3cf100e9eaa1ee11f31640205ce5867a2447e266/javafx-controls-21.0.4-mac-aarch64.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/21.0.4/54d34df3c28fe2d2141bd8965a6dc9ce24a41cb0/javafx-controls-21.0.4-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-media/21.0.4/8ef18ad1aa4ea55b7c6b04f887dd29280f7a411/javafx-media-21.0.4-mac-aarch64.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-media/21.0.4/50f9eb403e67d683f91aa62d34cea25c1466e401/javafx-media-21.0.4-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx/21.0.4/ce852730c61e70853598374f3a2424f2fbffb5b2/javafx-21.0.4.pom">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/pl.edu.icm/JLargeArrays/1.5/fe1350c7b5537c144fb0af39206e212ad1bbbe2/JLargeArrays-1.5.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/pl.edu.icm/JLargeArrays/1.5/9a1806a1a4f7630852ab2401ef259f1e8db1dd12/JLargeArrays-1.5-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.9.3/36b2e26a90c41603be7f0094bee80e3f8a2cd4d4/junit-platform-commons-1.9.3.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.9.3/86401c81baae1d05c5dc76d3e40c1b9397384eda/junit-platform-commons-1.9.3-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.9.3/815818ad6ffcc8d320d8fbdf3d748c753cf83201/junit-jupiter-api-5.9.3.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.9.3/85988e8197299a175eb2576f8f069fc84299a9f4/junit-jupiter-api-5.9.3-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/28c11eb91f9b6d8e200631d46e20a7f407f2a046/opentest4j-1.2.0.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/41d55b3c2254de9837b4ec8923cbd371b8a7eab5/opentest4j-1.2.0-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-params/5.9.3/9e2a4bf6016a1975f408a73523392875cff7c26f/junit-jupiter-params-5.9.3.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-params/5.9.3/d10dec2ad6dad92cdab830904e9bc4a1de4fd84a/junit-jupiter-params-5.9.3-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.9.3/355322b03bf39306a183162cd06626c206f0286b/junit-jupiter-engine-5.9.3.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.9.3/197892276ba628c4cdca0ab3168f9c24ce6c73f8/junit-jupiter-engine-5.9.3-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.2/a231e0d844d2721b0fa1b238006d15c6ded6842a/apiguardian-api-1.1.2.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.2/e0787a997746ac32639e0bf3cb27af8dce8a3428/apiguardian-api-1.1.2-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter/5.9.3/72e840501e1550e9799c9a5cc9483d7d6b29e0ba/junit-jupiter-5.9.3.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter/5.9.3/5fd01c33132462aab3905cb74bd1097a713ab91a/junit-jupiter-5.9.3-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.9.3/8616734a190f8d307376aeb7353dba0a2c037a09/junit-platform-engine-1.9.3.jar" sourcepath="/Users/aabdelhai/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.9.3/819f0849cf19b1f46718c36a4fc8406c87bced45/junit-platform-engine-1.9.3-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

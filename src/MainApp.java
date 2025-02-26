@@ -1,4 +1,4 @@
-package audiofingerprinter;
+
 
 import javafx.application.Application;
 import javafx.collections.FXCollections;

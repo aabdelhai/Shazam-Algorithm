@@ -1,4 +1,4 @@
-package audiofingerprinter;
+
 
 /**
  * Wrapper object used to keep track of a song and time offset that correspond with a specific hash in a map.
